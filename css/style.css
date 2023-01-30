@@ -1,0 +1,46 @@
+/* RESEt */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.conteiner{
+    border-radius: center;
+}
+/* Header */
+header{
+    background-color: lightgray;
+    border-bottom: 2px solid goldenrod;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.header-img{
+    width: 100px;
+    
+}
+/* Main */
+section{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.section-title{
+    font-size: 1,5rem;
+    color: goldenrod;
+    margin-bottom: 10px;
+}
+
+.section-subtitle{
+    font-size: 1rem;
+    font-style: italic;
+    margin-bottom: 10px;
+
+}
+
+.section-paragraf{
+    margin-bottom: 10px;
+
+}
